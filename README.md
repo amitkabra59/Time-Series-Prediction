@@ -1,1 +1,1 @@
-Special thanks to https://www.analyticsvidhya.com for clear tutorial on Time Series Forecasting.
+Special thanks to https://www.analyticsvidhya.com for tutorial on Time Series Forecasting.
